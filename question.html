@@ -4,19 +4,38 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>28º EAC</title>
+    <script src="js/index.js"></script>
+    <link rel="stylesheet" href="styles/style-question.css" />
   </head>
   <body>
-    <div class="mainQuestion">
-      <h1 class="titleQuestion">
-        E você encontreiro ? <br />Está praticando tudo isso ?
-      </h1>
+    <div class="mainContentContainer">
+      <div class="titleHeader">
+        <img class="logo" src="assets/28.png" alt="" />
+        <h1 class="titleQuestion">
+          E você encontreiro ? <br />Está praticando tudo isso ?
+        </h1>
+      </div>
+      <div class="container">
+        <div class="contentContainer">
+          <img class="icon" src="assets/carraca.png" alt="" />
+        </div>
+        <div class="contentContainer">
+          <img class="icon" src="assets/calendario.png" alt="" />
+        </div>
+        <div class="contentContainer">
+          <img class="icon" src="assets/coracao.png" alt="" />
+        </div>
+      </div>
 
-      <p class="mainQuestionContent">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto,
-        quisquam. Eveniet, consequatur quisquam. Illo, pariatur expedita? Non
-        nesciunt animi excepturi molestiae facere, corrupti labore voluptates
-        magni quam sed exercitationem temporibus.
-      </p>
+      <div class="buttonsContainer">
+        <button onclick="backToIndex()">
+          <img src="assets/divisa-esquerda.png" alt="" />
+        </button>
+
+        <button onclick="moveToSecret()">
+          <img src="assets/chevron-direito.png" alt="" />
+        </button>
+      </div>
     </div>
   </body>
 </html>
