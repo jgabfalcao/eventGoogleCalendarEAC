@@ -120,7 +120,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin: 30px 0px 0px 0px;
+  margin: 30px 0px 30px 0px;
 }
 
 .buttonsContainer img {
@@ -133,7 +133,7 @@ button {
   border-radius: 20px;
   width: 80px;
   height: 70px;
-  border: 1px solid #fff;
+  border: 2px solid #fff;
   transition: background-color 0.3s ease, color 0.3s ease;
   font-size: 16px;
 }
@@ -153,7 +153,7 @@ button:hover {
   display: flex;
   background-color: #ff7b57;
 
-  padding: 10px 20px 10px 20px;
+  padding: 10px 27px 10px 27px;
 
   gap: 5px;
 
@@ -165,4 +165,51 @@ button:hover {
 
 .icon {
   width: 60px;
+}
+
+.boxContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 30px 20px 30px 20px;
+}
+
+.box {
+  border-radius: 12px;
+  border: 2px solid #fff;
+  max-width: 370px;
+}
+
+.box h1 {
+  text-align: center;
+  color: #ff7b57;
+  font-size: 30px;
+  -webkit-text-stroke: 0.4px white;
+  text-shadow: 1px 1px 4px white;
+  padding: 30px 10px 0px 10px;
+}
+
+.box h3 {
+  text-align: justify;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  padding: 30px 20px 0px 20px;
+  color: #fff;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 50px 0px 20px 0px;
+  width: 100%;
+  height: 200px;
+  background-color: #ff7b57;
+}
+
+.logoFooter {
+  width: 80px;
+  height: 60px;
 }
