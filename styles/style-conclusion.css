@@ -88,10 +88,11 @@ video {
 }
 
 body {
-  font-family: cursive;
+  font-family: "Roboto Condensed", sans-serif;
   background-color: #cc3006;
   min-height: 100vh;
   margin: 0;
+  min-width: 414px;
 }
 
 .mainContentContainer {

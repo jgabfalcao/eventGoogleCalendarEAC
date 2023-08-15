@@ -88,10 +88,11 @@ video {
 }
 
 body {
-  font-family: "Pirata One", cursive;
+  font-family: "Roboto Condensed", sans-serif;
   background-color: #cc3006;
   height: 100vh;
   margin: 0;
+  min-width: 414px;
 }
 
 .mainContentContainer {
