@@ -1,36 +1,163 @@
-* {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 
-.loading {
-  background: rgba(0, 0, 0, 0.5);
-  width: 100%;
+body {
+  font-family: cursive;
+  background-color: #cc3006;
   min-height: 100vh;
+  margin: 0;
+}
+
+.mainContentContainer {
+  min-width: 414px;
+}
+
+.titleHeader {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  margin: 30px;
+}
+.logo {
+  margin: 30px;
+  width: 60px;
+}
+
+.titleQuestion {
+  font-size: 20px;
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+}
+.boxContainer {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  margin: 30px 20px 30px 20px;
 }
 
-.loading span {
-  width: 60px;
+.box {
+  border-radius: 12px;
+  border: 2px solid #fff;
+  max-width: 370px;
+}
+
+.box h1 {
+  text-align: center;
+  color: #ff7b57;
+  font-size: 30px;
+  -webkit-text-stroke: 0.4px white;
+  text-shadow: 1px 1px 4px white;
+  padding: 30px 10px 0px 10px;
+}
+
+.box h3 {
+  text-align: justify;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  padding: 30px 20px 0px 20px;
+  color: #fff;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 120px 0px 0px 0px;
+  width: 100%;
+  height: 200px;
+  background-color: #ff7b57;
+}
+
+.logoFooter {
+  width: 80px;
   height: 60px;
-  background-color: transparent;
-  display: block;
-  border: 12px solid #cc3006;
-  border-top: 12px solid transparent;
-  border-radius: 50%;
-
-  animation: loading 1s linear infinite;
-}
-
-@keyframes loading {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
 }
