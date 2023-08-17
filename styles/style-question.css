@@ -112,9 +112,10 @@ body {
 
 .titleQuestion {
   font-size: 20px;
-  margin-top: 30px;
   text-align: center;
   color: white;
+  display: flex;
+  align-items: center;
 }
 
 .buttonsContainer {
