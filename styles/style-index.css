@@ -160,8 +160,15 @@ body {
   letter-spacing: 1px;
 }
 
+.resumeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .resumeImage {
   width: 410px;
+  padding-right: 5px;
 }
 
 .mainQuestion {
