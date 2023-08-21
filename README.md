@@ -8,7 +8,7 @@ O projeto é uma aplicação FullStack construída para um evento (EAC - Encontr
 A aplicação consiste em telas mobile que descrevem melhor o objetivo final do Encontro. E também em uma etapa da navegação, tem uma integração com o GOOGLE para realizar o login e autorizar o uso de dados. Que serão utilizados por uma integração com o Google Calendário para criar um evento personalizado, com aviso antes do evento.
   
   
-## Project Video Description
+## Descrição do projeto em vídeo
 
 <div align="center">
 
