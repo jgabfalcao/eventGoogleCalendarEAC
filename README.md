@@ -20,11 +20,59 @@ A aplicação consiste em telas mobile que descrevem melhor o objetivo final do 
 
 
 
-## Layout
+## Página Inicial
 
 <div align="center">
   
-![Modelo Conceitual](https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/tablet.png)
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile3.png) 
+
+</div>
+
+## Página Inicial
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile.png) 
+
+</div>
+
+## Página de Questão
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile1.png) 
+
+</div>
+
+## Página de Segredo
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile2.png) 
+
+</div>
+
+## Página de Conclusão/Revelação
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile4.png) 
+
+</div>
+
+## Página de Política de Privacidade
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile5.png) 
+
+</div>
+
+## Página de Termos de Serviço
+
+<div align="center">
+  
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile6.png) 
 
 </div>
 
