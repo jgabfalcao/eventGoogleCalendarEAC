@@ -12,7 +12,7 @@ A aplicação consiste em uma tela com um Footer responsivo, com um design moder
 
 <div align="center">
 
-![Mobile 1](https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/mobile.png) 
+![Mobile 1](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/assets/mobile.gif) 
 
 </div>
 
