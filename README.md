@@ -1,14 +1,14 @@
-# Responsive Footer
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jgabfalcao/responsiveFooter/blob/main/LICENSE) 
+# 28º EAC 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jgabfalcao/eventGoogleCalendarEAC/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-O projeto é uma aplicação front end construída durante um período de estudo, para aprimorar minhas habilidades em UX/UI.
+O projeto é uma aplicação FullStack construída para um evento que ocorre anualmente em uma Paróquia da minha cidade em que eu atuo. É um projeto aonde coloquei minhas habilidades em prática com uma ideia unica e inovadora.
 
-A aplicação consiste em uma tela com um Footer responsivo, com um design moderno e com uma paleta de cor forte com alguns tons de contraste.
+A aplicação consiste em telas mobile que descrevem melhor o objetivo final do Encontro. E também em uma etapa da navegação, tem uma integração com o GOOGLE para realizar o login e autorizar o uso de dados. Que serão utilizados por uma integração com o Google Calendário para criar um evento personalizado, com aviso antes do evento.
   
   
-## Layout mobile
+## Project Video Description
 
 <div align="center">
 
@@ -18,20 +18,11 @@ A aplicação consiste em uma tela com um Footer responsivo, com um design moder
 
 
 
-## Layout Tablet
+## Layout
 
 <div align="center">
   
 ![Modelo Conceitual](https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/tablet.png)
-
-</div>
-
-
-## Layout web
-
-<div align="center">
-  
-<img src="https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/note.png"  width="900px">
 
 </div>
 
@@ -45,6 +36,11 @@ A aplicação consiste em uma tela com um Footer responsivo, com um design moder
 - HTML
 - CSS
 - Live Server
+- JavaScript
+
+## Back end
+- JavaScript
+- Google API
 
 # Como executar o projeto
 
@@ -52,10 +48,10 @@ A aplicação consiste em uma tela com um Footer responsivo, com um design moder
 
 ```bash
 # clonar repositório
-git clone https://github.com/jgabfalcao/responsiveFooter.git
+git clone https://github.com/jgabfalcao/eventGoogleCalendarEAC.git
 
 # entrar na pasta do projeto responsiveFooter
-cd responsiveFooter
+cd eventGoogleCalendarEAC
 
 # rodar o projeto no live server
 ```
