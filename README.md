@@ -3,6 +3,8 @@
 
 # Sobre o projeto
 
+https://rainbow-pasca-1a8072.netlify.app/
+
 O projeto é uma aplicação FullStack construída para um evento (EAC - Encontro de Adolescentes com Cristo) que ocorre anualmente em uma Paróquia da minha cidade em que atuo, Paróquia Nossa Senhora das Graças - (São Vicente - SP). É um projeto aonde coloquei minhas habilidades em prática com uma ideia unica e inovadora.
 
 A aplicação consiste em telas mobile que descrevem melhor o objetivo final do Encontro. E também em uma etapa da navegação, tem uma integração com o GOOGLE para realizar o login e autorizar o uso de dados. Que serão utilizados por uma integração com o Google Calendário para criar um evento personalizado, com aviso antes do evento.
