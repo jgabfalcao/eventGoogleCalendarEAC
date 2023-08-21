@@ -103,6 +103,11 @@ git clone https://github.com/jgabfalcao/eventGoogleCalendarEAC.git
 # entrar na pasta do projeto responsiveFooter
 cd eventGoogleCalendarEAC
 
+# secret.html
+
+Inserir CLIENT_ID
+Inserir API_KEY
+
 # rodar o projeto no live server
 ```
 
