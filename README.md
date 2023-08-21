@@ -35,8 +35,8 @@ A aplicação consiste em telas mobile que descrevem melhor o objetivo final do 
 ## Front end
 - HTML
 - CSS
-- Live Server
 - JavaScript
+- Live Server
 
 ## Back end
 - JavaScript
